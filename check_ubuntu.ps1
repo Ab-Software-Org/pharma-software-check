@@ -1,4 +1,4 @@
-$Name = "CanonicalGroupLimited.Ubuntu20.04onWindows"
+$Name = "CanonicalGroupLimited.Ubuntu18.04onWindows"
 if(Get-AppxPackage -Name $Name){
 Write-Host "INSTALLED"
 }
